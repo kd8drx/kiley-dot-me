@@ -1,0 +1,27 @@
+.link-apple-music {
+  background: rgb(207, 95, 91);
+  background: linear-gradient(
+    90deg,
+    rgba(207, 116, 120, 1) 0%,
+    rgba(207, 95, 91, 1) 50%,
+    rgba(200, 83, 70, 1) 100%
+  );
+}
+
+.link-insta {
+  background-color: #c13584;
+  background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
+.link-resume {
+  background-color: #4709a8;
+  background: linear-gradient(45deg, #4709a8, #6d1cec, #4709a8);
+}
+
+.link-linked-in {
+  background-color: #0077b5;
+}
+
+.link-tel {
+  background-color: #7fb768;
+}
